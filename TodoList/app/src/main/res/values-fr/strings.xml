@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TodoList</string>
+    <string name="addNote">Nouvelle note</string>
+    <string name="connection">Connexion</string>
+    <string name="hintLogin">Nom d\'utilisateur</string>
+    <string name="hintPass">Mot de passe</string>
+    <string name="newUser">Créer un compte</string>
+</resources>
