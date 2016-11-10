@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_tchat_users"
+        android:icon="@android:drawable/ic_menu_more"
+        android:title="Liste des utilisateurs"
+        android:showAsAction="always"
+        />
+    <item android:id="@+id/menu_tchat_refresh"
+        android:icon="@android:drawable/ic_menu_rotate"
+        android:title="Rafraichir"
+        android:showAsAction="always"
+        />
+    <item android:id="@+id/menu_tchat_disconnect"
+        android:icon="@android:drawable/ic_menu_close_clear_cancel"
+        android:title="Déconnexion"
+        android:showAsAction="always"
+        />
+</menu>
